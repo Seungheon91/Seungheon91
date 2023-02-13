@@ -1,4 +1,4 @@
-### Hi there👋 Front-end developer Seungheon Lee
+### Hi there👋 front-end developer Seungheon Lee
 
 <!--
 **Seungheon91/Seungheon91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
